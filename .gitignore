@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 .venv/
 __pycache__/
 tempCodeRunnerFile.py
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -210,4 +210,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
->>>>>>> e93e2c9741cf0f1c5c0af53d6dd585f78a50302e
