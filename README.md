@@ -1,7 +1,7 @@
 
 # Neural Network from Scratch
 
-This project implements core neural network concepts using Numpy.
+This project implements core neural network concepts using NumPy.
 
 ## Features
 - Activation Functions (ReLU, Sigmoid, Tanh, Softmax)
