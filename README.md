@@ -1,3 +1,4 @@
+
 # Neural Network from Scratch
 
 This project implements core neural network concepts using Numpy.
@@ -14,3 +15,7 @@ This project implements core neural network concepts using Numpy.
 
 ## How to Run
 python main.py
+
+# neural-network-from-scratch
+Neural network implemented from scratch using NumPy with forward and backward propagation.
+
