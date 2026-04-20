@@ -24,6 +24,11 @@ Explores the learning mechanisms and optimization algorithms:
 * Gradient Descent implementation.
 * Linear Regression conceptual breakdown.
 * Toy datasets for testing mathematical weight updates.
+<br>
+<br>
+  <img width="1200" height="600" alt="Figure_3" src="https://github.com/user-attachments/assets/6363c123-8dd9-4d1e-a9bd-bbba6c76f5a4" />
+<br>
+<br>
 
 ## Tech Stack
 
